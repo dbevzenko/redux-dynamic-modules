@@ -63,4 +63,4 @@ typings/
 # output folders
 dist/
 lib/
-
+.idea/
